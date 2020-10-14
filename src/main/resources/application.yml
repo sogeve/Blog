@@ -1,0 +1,8 @@
+#server:
+#  port: ${appPort:17058}
+#  additionalPorts: 25741
+#
+#  server:
+#    port: 17058
+#    http-port: 25741
+  #  port: ${appPort:17058}

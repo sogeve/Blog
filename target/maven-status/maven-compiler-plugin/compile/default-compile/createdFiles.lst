@@ -1,0 +1,6 @@
+com\example\app\controllers\MainController.class
+com\example\app\entities\Article.class
+com\example\app\services\ArticleService.class
+com\example\app\AppApplication.class
+com\example\app\entities\ArticleText.class
+com\example\app\repositories\ArticleRepository.class
